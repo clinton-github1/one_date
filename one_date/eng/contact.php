@@ -1,6 +1,6 @@
 <?php
 
-include "contact_db_connect.php";
+include "../shared/contact_db_connect.php";
 class Contact{
     
     public function __construct(){

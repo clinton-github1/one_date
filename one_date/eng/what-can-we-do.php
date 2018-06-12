@@ -28,9 +28,9 @@
 
 <p>Each person who has <a href="sign-petition.php" class="pg-links">signed the petition</a> and opted to be contacted, will be notified by email when different milestones are reached, eg. 10,000 signatures, 100,000 signatures. Once a critical mass has been achieved, individuals who have agreed to contact their local Bishop/or the equivalent in the respective denominations, can then access a templated letter from OneDate.org to take to their designated Church leader. Bishops/or the equivalent in the respective denominations have the greatest potential to act as agents of change and this voice from the people of the Church lies within their sphere of influence. It will then be each individual's responsibility (from whichever denomination) to update themselves through contacting the Bishops/or the equivalent in the respective denominations as to what progress has been made from their part. This truly can be a voice of unity if everyone follows these two simple steps.</p>
 
-<p>An ongoing process of contacting different Ecumenical and Church web sites and related blogs is underway to help raise awareness of this petition by <a href="#" class="pg-links">linking to this website</a>.</p>
+<p>An ongoing process of contacting different Ecumenical and Church web sites and related blogs is underway to help raise awareness of this petition by <a href="link-to-us.php" class="pg-links">linking to this website</a>.</p>
 
-<p>You can help by <a href="#" class="pg-links">linking to this website</a> and/or <a href="tell-others.php" class="pg-links">informing your friends</a> that the petition exists and encouraging them to<a href="sign-petition.php" class="pg-links"> sign it</a>.</p>
+<p>You can help by <a href="link-to-us.php" class="pg-links">linking to this website</a> and/or <a href="tell-others.php" class="pg-links">informing your friends</a> that the petition exists and encouraging them to<a href="sign-petition.php" class="pg-links"> sign it</a>.</p>
 
 <p>Complementary strategies need to be in the form of raising awareness in the churches of the importance of unifying the dates of Easter; Soliciting prayer support for the effort that our Christian religious leaders obtain the needed grace to make the date of Easter ONE Date.</p>
 
@@ -53,6 +53,6 @@
 </div>
 
 
-<?php include "fb_link.php";?>
+<?php include "../shared/fb_link.php";?>
 
 <?php include "footer.php"; ?>

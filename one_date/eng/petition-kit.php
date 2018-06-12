@@ -9,5 +9,5 @@
 
 <a href="#" class="pg-links">Click here to print the petition kit.</a>
 
-<?php include "fb_link.php";?>
+<?php include "../shared/fb_link.php";?>
 <?php include "footer.php";?>

@@ -9,5 +9,5 @@
 
 <a href="#" class="pg-links">按這裏印出請願書。</a>
 
-<?php include "fb_link.php";?>
+<?php include "../shared/fb_link.php";?>
 <?php include "footer.php";?>

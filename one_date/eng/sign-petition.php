@@ -46,7 +46,7 @@ and to all Church leaders</div>
     
     </div>
     
-    <?php include "fb_link.php";?>
+    <?php include "../shared/fb_link.php";?>
 </section>
 
 

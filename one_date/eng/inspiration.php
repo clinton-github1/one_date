@@ -20,7 +20,7 @@
 
     <div class="inspiration">
     
-        <div class="inspiration-img"><img src="images/Niels-Christian-Hvidt.jpg" alt="niels"></div>
+        <div class="inspiration-img"><img src="../shared/images/Niels-Christian-Hvidt.jpg" alt="niels"></div>
         <div class="inspiration-statement"><p>Niels Christian Hvidt
 <br><br>
 “What finer purpose for theology than seeking Christian unity?”<br><br>
@@ -72,7 +72,7 @@ Content Author, Scotland</p>
     
     <div class="inspiration">
     
-        <div class="inspiration-img"><img src="images/Alistair-1-400x400.png" alt="Alistair"></div>
+        <div class="inspiration-img"><img src="../shared/images/Alistair-1-400x400.png" alt="Alistair"></div>
         <div class="inspiration-statement"><p>Alistair Macneil<br><br>
 “It is a privilege to be involved in taking a step towards something Jesus wants, Unity.”<br><br>
 Web Developer, Scotland</p></div>
@@ -81,5 +81,5 @@ Web Developer, Scotland</p></div>
 
 </section>
 
-<?php include "fb_link.php";?>
+<?php include "../shared/fb_link.php";?>
 <?php include "footer.php"?>

@@ -2,7 +2,7 @@
 
 include "header.php";
 
-include "petition_db_connect.php";
+include "../shared/petition_db_connect.php";
 ?>
 
 <div class="tell-othrs"><a href="tell-others.php" class="pg-links">Tell Others</a></div>
@@ -38,6 +38,8 @@ class Signatures{
 $signature= new Signatures();
 $signature->allSignatures();
 
+
+include "../shared/fb_link.php";
 include "footer.php";
 
 ?>

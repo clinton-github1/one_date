@@ -17,6 +17,6 @@
 <h2>Parish Bulletin</h2>
 <p>Ask your Priest/Pastor to announce the petition during mass/service and if possible have it mentioned in the parish bulletin.</p>
 
-<?php include "fb_link.php";?>
+<?php include "../shared/fb_link.php";?>
 
 <?php include "footer.php";?>

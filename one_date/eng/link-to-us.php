@@ -7,7 +7,7 @@
     
     <div class="links">
     
-        <div class="lnk-img"><a href="index.php" class="pg-links"><img src="images/onedate.jpg" alt="home page link image"></a></div>
+        <div class="lnk-img"><a href="index.php" class="pg-links"><img src="../shared/images/onedate.jpg" alt="home page link image"></a></div>
         <p><a href="index.php" class="pg-links">OneDate.org - Sign the Petition to Celebrate the Feast of Easter all in one date</a></p>
             <p>Take a small step towards <a href="index.php" class="pg-links">Christian Unity</a>. Sign the Petition to Celebrate the Feast of Easter all in one date.</p>
         
@@ -19,5 +19,5 @@
 </section>
 
 
-<?php include "fb_link.php";?>
+<?php include "../shared/fb_link.php";?>
 <?php include "footer.php";?>

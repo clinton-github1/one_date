@@ -1,6 +1,6 @@
 <?php
 
-include "petition_db_connect.php";
+include "../shared/petition_db_connect.php";
 
 
 class Petition{
@@ -25,7 +25,7 @@ class Petition{
             $result= $db->query($check_email);
             if($result->num_rows>1){
                 
-                echo "<script>alert('Sign Petition only once!!'), window.open('sign-petition.php', '_self')</script>";
+                echo "<script>alert('Sign Petition only once!! This email address had signed already'), window.open('sign-petition.php', '_self')</script>";
                 exit;
             }
             

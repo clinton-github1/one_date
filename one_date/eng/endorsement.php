@@ -3,7 +3,7 @@
 <section class="endorsements">
 
 <div class="endorse">
-<div class="endorse-img"><img src="images/Archbishop-Vincent.JPG" alt="bishop vincent"> </div>    
+<div class="endorse-img"><img src="../shared/images/Archbishop-Vincent.JPG" alt="bishop vincent"> </div>    
 <div class="endorse-statement"><p>“The resurrection of Jesus from the dead is the foundation of our faith. Hence a truth that binds all Christians together and gives hope that in and through Jesus grace will triumph over sin. It is therefore, right and just that we have a common date for the celebration of Easter.”<br><br>
 
 Archbishop Vincent Concessao<br>
@@ -23,11 +23,11 @@ Archbishop Aris Shirvanian</p>
        
 
 <section class="endorsements">
-<div class="endorse-full-img"><img src="images/Bishop-Felix-Toppo.jpg" alt="bishop toppo"> </div>            </section>
+<div class="endorse-full-img"><img src="../shared/images/Bishop-Felix-Toppo.jpg" alt="bishop toppo"> </div>            </section>
    
 <section class="endorsements">
     <div class="endorse">
-<div class="endorse-img"><img src="images/Fr%20Peter%20CSWG.jpg" alt="Fr Peter"> </div>    
+<div class="endorse-img"><img src="../shared/images/Fr%20Peter%20CSWG.jpg" alt="Fr Peter"> </div>    
 <div class="endorse-statement"><p>“The Resurrection event is something unique to the Christian Faith. It confirms the Gospel that she proclaims, which is the promise of a New Creation from God for the whole human race. In order to make known this truth convincingly, all Christians need to celebrate this unique event, the resurrection, on the same day everywhere.”<br><br>
 
 Fr Peter CSWG Anglican monk<br>
@@ -44,7 +44,7 @@ Fr Wayne P M Weldschidt OMI</p>
 
 <section class="endorsements">
     <div class="endorse">
-<div class="endorse-img"><img src="images/Fr-KURIAN-MATTAM.jpg" alt="Fr Kurian"> </div>    
+<div class="endorse-img"><img src="../shared/images/Fr-KURIAN-MATTAM.jpg" alt="Fr Kurian"> </div>    
 <div class="endorse-statement"><p>“The unification is important to me because<br>
 1 Easter is the most basic foundation of Christian faith<br>
 2 The unification will heal at least one wound in the body of Christ.<br>
@@ -57,7 +57,7 @@ Fr Kurian Mattam</p>
 </div>
     
     <div class="endorse">
-<div class="endorse-img"><img src="images/Josep-Monells.jpg" alt="Fr Monells"> </div>    
+<div class="endorse-img"><img src="../shared/images/Josep-Monells.jpg" alt="Fr Monells"> </div>    
 <div class="endorse-statement"><p>“Throughout the centuries the Christian Churches of diferent empires, nations, countries. Traditions, Confesions and Denominations has been celebrating the dates of Easter. (Pasover, death , burry and Resurrection of Christ ). Date that has been the most important event of the Christianism, because that we will recive for the God Grace, the Forgivenes of our sins and the Eternal Salvation. But not in the same dates, because different theological traditions, astronomical opinions, cultural influences, religios and eclesiological calendars. The celebrations of the Easter has not been in the same day..It is an escandal for Christians and non christians... In 2010 qnd 2011. the cellebration has been unified,..And in the GLOBAL era I believe that is essential por the unified testimony, that from now on all the Christians we need always celebrate the Easter in the same days. HE IS ALIVE AND WILL COME SOON.”<br>
 
 Joseph Monells</p>
@@ -67,7 +67,7 @@ Joseph Monells</p>
 
 <section class="endorsements">
     <div class="endorse">
-<div class="endorse-img"><img src="images/fr-john-aberton.jpg" alt="Fr alberton"> </div>    
+<div class="endorse-img"><img src="../shared/images/fr-john-aberton.jpg" alt="Fr alberton"> </div>    
 <div class="endorse-statement"><p>“If unity is essential for the successful evangelisation of the world (John 19:21), and agreement on the date of Easter will bring East and West closer together, then the accuracy of the date takes second place to the benefits of such an agreement. Why should we hesitate?”<br><br>
 
 Fr John Aberton<br>
@@ -77,7 +77,7 @@ England </p>
 
     
     <div class="endorse">
-<div class="endorse-img"><img src="images/Father-George-Coconas.jpg" alt="Fr coconas"> </div>    
+<div class="endorse-img"><img src="../shared/images/Father-George-Coconas.jpg" alt="Fr coconas"> </div>    
 <div class="endorse-statement"><p>“Our beloved Jesus was once crucified on the Hill of Calvary and shed his blood for the sins of mankind. After three days, He rose from the dead bringing joy to mankind. However, Christians celebrate Easter on two separate dates, which is like cutting Jesus’ precious body in half. I strongly believe that this is unacceptable by Jesus, Himself. If all Christians celebrated Easter on the same date, this would unite people and evidently live their spiritual lives in peace and harmony”<br><br>
 
 Fr George Coconas</p>
@@ -87,7 +87,7 @@ Fr George Coconas</p>
     </section>
 <section class="endorsements">
     <div class="endorse">
-<div class="endorse-img"><img src="images/Rev-Canon-Dr-Gavin-Ashenden.jpg" alt="Fr canon"> </div>    
+<div class="endorse-img"><img src="../shared/images/Rev-Canon-Dr-Gavin-Ashenden.jpg" alt="Fr canon"> </div>    
 <div class="endorse-statement"><p>“I support the unification of the dates of Easter as a way of healing the sins and divisions of our spiritual forbears, of being obedient to the Risen Christ who asks the deepest levels of unity of heart and mind from his Church, and of presenting a more coherent witness to the world.”
 <br><br>
 
@@ -97,7 +97,7 @@ England</p>
 </div>
     
     <div class="endorse">
-<div class="endorse-img"><img src="images/Fr-Brian-Cross.jpg" alt="Fr brian"> </div>    
+<div class="endorse-img"><img src="../shared/images/Fr-Brian-Cross.jpg" alt="Fr brian"> </div>    
 <div class="endorse-statement"><p>“The theology of the Eastern and Western traditions are complimentary. In the apostolicum we have a declaration of pure intent. We will continue to keep to the vision of the apostles”<br><br>
 
 Fr Brian Cross</p>
@@ -106,7 +106,7 @@ Fr Brian Cross</p>
 </section>  
     <section class="ex-endorsements">
     <div class="endorse-martha"><div class="endorse">
-<div class="endorse-img"><img src="images/sister-martha.jpg" alt="sis martha"> </div>    
+<div class="endorse-img"><img src="../shared/images/sister-martha.jpg" alt="sis martha"> </div>    
 <div class="endorse-statement"><p>“I believe the unification of the dates of Easter are very important because: Unity is the testoment of love for the world and a precious gift for all Christians”<br><br>
 
 Sister Martha O' Daly</p>
@@ -116,7 +116,7 @@ Sister Martha O' Daly</p>
 
 
     <div class="ex-endorse">
-<div class="ex-endorse-img"><img src="images/fr-john-twisleton.jpg" alt="Fr twisleton"> </div>    
+<div class="ex-endorse-img"><img src="../shared/images/fr-john-twisleton.jpg" alt="Fr twisleton"> </div>    
 <div class="ex-endorse-statement"><p>“The celebration of Easter on different dates by different Churches implies complacency about Christian differences. Worse than that it signifies unreadiness in the Churches to accept one another as the Lord accepts them. </p>
 
 <p>Each Church exists only by the mercy of God whether its followers believe it or not. When a Church welcomes this move to unify the date of Easter it places itself at the foot of the same Cross of Jesus to seek divine mercy with all other denominations. For a Church to sign up for the unification of the date of Easter is to signify it lives in hope of the communion of saints where, in the glory of the resurrection, unity and truth will be inseparable.</p>
@@ -133,6 +133,6 @@ Rector of St Giles, Horsted Keynes and Chichester diocesan advisor on Christian 
  
 </section>
 
-<section class="fblink" style="height:auto"><?php include "fb_link.php";?></section>
+<section class="fblink" style="height:auto"><?php include "../shared/fb_link.php";?></section>
 
 <section class="ftr"><?php include "footer.php";?></section>
